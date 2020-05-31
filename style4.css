@@ -1,0 +1,13 @@
+body{background-color: #D2DC9D;background-image: url(images/bullseye.png);
+    background-image: url(images/blackgoose.png);
+    background-position: center 200px;
+    background-repeat: no-repeat;
+}
+body #div1{background-color: white;opacity: 0.5;
+    background-image: url(images/purpledot.png),url(images/purpledot.png),url(images/gooseshadow.png);
+    background-position: left,right,2000px bottom;
+    background-repeat: repeat-y,repeat-y,no-repeat;}
+a{color: #993399;}
+a:focus{color:#C700F2;background-color: #FFC0CB;}
+a:hover{color: #C700F2;background-color: #FFC0CB;}
+a:visited{color: #937393;}

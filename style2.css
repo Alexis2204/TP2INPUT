@@ -1,0 +1,6 @@
+body{background-color: #D2DC9D;}
+body #div1{background-color: white;opacity: 0.5;}
+a{color: #993399;}
+a:focus{color:#C700F2;background-color: #FFC0CB;}
+a:hover{color: #C700F2;background-color: #FFC0CB;}
+a:visited{color: #937393;}
